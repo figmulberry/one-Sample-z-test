@@ -128,7 +128,7 @@ plt.title ('z-statistic = 1.19');
 
 
     
-![png](https://raw.githubusercontent.com/figmulberry/one-Sample-z-test/main/images/index_3_0.png)
+![png](https://github.com/figmulberry/one-Sample-z-test/blob/main/images/index_3_0.png)
     
 
 
