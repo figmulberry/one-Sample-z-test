@@ -128,7 +128,7 @@ plt.title ('z-statistic = 1.19');
 
 
     
-![png](index_files/index_3_0.png)
+![png]([index_files/index_3_0.png](https://github.com/figmulberry/one-Sample-z-test/blob/main/images/index_3_0.png))
     
 
 
